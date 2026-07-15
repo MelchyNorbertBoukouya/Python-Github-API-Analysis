@@ -12,7 +12,7 @@ The project covers the complete data analysis workflow:
 * Creating a Pandas DataFrame
 * Cleaning and exploring the dataset
 * Performing statistical analysis
-* Generating business insights
+* Performing vizualisations
 
 ## Technologies Used
 
